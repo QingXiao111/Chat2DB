@@ -2,7 +2,7 @@
 
 <div align="center">
 
-智能且多功能的 SQL 客户端和报表工具，适用于各种数据库
+智能且多功能的 SQL 客户端和报表工具，适用于各种database
 
 [![License](https://img.shields.io/github/license/alibaba/fastjson2?color=4D7A97&logo=apache)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Java support](https://img.shields.io/badge/Java-17+-green?logo=java&logoColor=white)](https://openjdk.java.net/)
